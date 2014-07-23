@@ -1,4 +1,4 @@
-configurations
-==============
+My Sublime Settings
+===================
 
-Place to store configurations for software like sublime text
+This will store all of my personal sublime text settings

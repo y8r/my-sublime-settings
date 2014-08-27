@@ -26,9 +26,12 @@
 	"scroll_past_end": true,
 	"soda_classic_tabs": false,
 	"spell_check": true,
-	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
+	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
+	"detect_indentation": true,
+	"use_tab_stops": true,
 	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
 	"word_wrap": false
 }

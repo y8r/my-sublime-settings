@@ -1,8 +1,10 @@
 {
 	"color_scheme": "Packages/User/y8r.tmTheme",
 	"default_line_ending": "unix",
+	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
 	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
 		"._*",
@@ -26,12 +28,10 @@
 	"scroll_past_end": true,
 	"soda_classic_tabs": false,
 	"spell_check": true,
-	"theme": "Soda Light.sublime-theme",
 	"tab_size": 4,
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"detect_indentation": true,
-	"use_tab_stops": true,
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
+	"use_tab_stops": true,
 	"word_wrap": false
 }
